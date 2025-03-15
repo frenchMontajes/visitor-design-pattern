@@ -8,4 +8,6 @@ Implement a visitor design pattern approach. You must show the different element
 Design your own UML Class Diagram.  Paste the problem scenario and the UML diagram in the readMe file of your designated gitHub repository.
 
 ## UML DIAGRAM
+![Blank diagram (6)](https://github.com/user-attachments/assets/821cebaa-9598-4f3b-82bf-2ca31ae73edd)
+
 
